@@ -5,12 +5,14 @@
 
 <h3>Techs</h3>
 <p>
+  <img alt="Apache Nifi" src="https://img.shields.io/badge/-Apache%20Nifi-46a2f1?style=flat-square&logo=apachenifi&logoColor=white" />
+  <img alt="Pentaho" src="https://img.shields.io/badge/-Pentaho-46a2f1?style=flat-square&logo=hitachi&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python">
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  
 
 </p>
 <h3>Estudando</h3>
