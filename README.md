@@ -1,6 +1,6 @@
 <p>Bem vindo a minha página!</p>
 
-<p>Atualmente, atuo como desenvolvedor de integração de dados, utilizando middlewares para orquestração de informações de acordo com as regras de negócio estabelecidas pelos clientes. Possuo experiência sólida em SQL, ETL, bancos de dados, Web Services, APIs, metodologias ágeis, ferramentas de visualização de dados e engenharia de dados. Possuo facilidade de relacionamento interpessoal, capacidade de adaptação a mudanças de forma ágil e uma visão analítica sobre processos.</p>
+<p>Atualmente, atuo como desenvolvedor de integração de sistemas, utilizando middlewares para orquestração de informações de acordo com as regras de negócio estabelecidas pelos clientes. Possuo experiência sólida em SQL, ETL, bancos de dados, Web Services, APIs, metodologias ágeis, ferramentas de visualização de dados e engenharia de dados. Possuo facilidade de relacionamento interpessoal, capacidade de adaptação a mudanças de forma ágil e uma visão analítica sobre processos.</p>
 
 
 <h3>Techs</h3>
